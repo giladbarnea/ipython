@@ -1,0 +1,5 @@
+- [ ] `rich`
+  - [ ] pretty printer from config?
+  - [ ] override `foo??`
+- [ ] debugger
+  - [ ] custom debugger to `pudb`?
